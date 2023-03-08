@@ -1,0 +1,22 @@
+
+.redes-sociais__lista {
+    display: flex;
+    justify-content: start;
+}
+
+.redes-sociais__link {
+    text-decoration: none;
+    color: #464646;
+}
+
+.redes-sociais__link:hover{
+    text-decoration: underline;
+}
+
+.redes-sociais__item {
+    list-style: none;
+    background-image: url(../../img/Vector.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0 20px;
+}
