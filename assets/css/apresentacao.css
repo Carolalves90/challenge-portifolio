@@ -1,8 +1,6 @@
 .apresentacao {
     align-items: center;
-    background: #F5F5F5;
     display: flex;
-    justify-content: space-between;
     padding: 5rem;
-    width: auto;
+    width: 90%;
 }

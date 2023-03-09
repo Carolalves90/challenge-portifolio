@@ -5,15 +5,9 @@
     width: 100%;
 }
 
-.sobre__mim h2 {
-    font-size: 1.25rem;
-    font-weight: 700;
-}
-
 .sobre__mim p {
     text-align: left;
     padding-top: 20px;
     padding-right: 300px;
     margin-right: 20px;
-    font-weight: 400;
 }

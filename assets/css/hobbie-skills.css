@@ -1,0 +1,12 @@
+.hobbies__skills h2{
+    text-align: center;
+    font-weight: 700;
+    padding: 5rem;
+}
+
+.hobbies__skills--html {
+    background-image: url(..//img/html5.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+}
