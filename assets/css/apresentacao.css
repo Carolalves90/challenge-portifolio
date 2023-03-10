@@ -1,6 +1,7 @@
 .apresentacao {
     align-items: center;
     display: flex;
+    flex-direction: row-reverse;
     padding: 5rem;
-    width: 90%;
+    margin: 10px;
 }

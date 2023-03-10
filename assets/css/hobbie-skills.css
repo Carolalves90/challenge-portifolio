@@ -1,11 +1,64 @@
-.hobbies__skills h2{
+.hobbies__skills--conteudo {
+    padding: 20px;
+}
+.hobbies__skills--lista {
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.hobbies__skills--titulo{
     text-align: center;
     font-weight: 700;
     padding: 5rem;
 }
 
 .hobbies__skills--html {
-    background-image: url(..//img/html5.png);
+    background-image: url(../../assets/img/html5.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.hobbies__skills--js {
+    background-image: url(../../assets/img/js.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.hobbies__skills--node {
+    background-image: url(../../assets/img/node.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.hobbies__skills--css {
+    background-image: url(../../assets/img/css.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.hobbies__skills--violao {
+    background-image: url(../img/guitar.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.hobbies__skills--musica {
+    background-image: url(../img/music.png);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+}
+
+.hobbies__skills--tv {
+    background-image: url(../img/tv.png);
     background-repeat: no-repeat;
     height: 50px;
     width: 50px;
