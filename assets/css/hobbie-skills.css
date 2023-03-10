@@ -1,12 +1,22 @@
+.hobbies__skills {
+    background: #F5F5F5;
+}
+
 .hobbies__skills--conteudo {
     padding: 20px;
 }
 .hobbies__skills--lista {
     display: flex;
     justify-content: space-around;
-    
     align-items: flex-start;
     padding: 20px;
+    
+}
+
+.hobbies__skills--item{
+    background-color: #FFFFFF;
+    padding: 5rem;
+
 }
 
 .hobbies__skills--titulo{
