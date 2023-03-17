@@ -1,0 +1,21 @@
+.formacao {
+    background: #EAF2FD;
+}
+
+.formacao__container {
+    padding: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.formacao--titulo {
+    text-align: center;
+    padding: 5rem;
+}
+
+.formacao--item {
+    padding: 1.5rem;
+    align-items: center;
+}
+
