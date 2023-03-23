@@ -9,20 +9,20 @@
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
-    padding: 20px;
+    padding: 40px;
     
 }
 
 .hobbies__skills--item{
     background-color: #FFFFFF;
-    padding: 5rem;
+    padding: 40px;
 
 }
 
 .hobbies__skills--titulo{
     text-align: center;
     font-weight: 700;
-    padding: 5rem;
+    padding: 40px;
 }
 
 .hobbies__skills--html {

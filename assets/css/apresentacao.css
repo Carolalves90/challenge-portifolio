@@ -2,6 +2,9 @@
     align-items: center;
     display: flex;
     flex-direction: row-reverse;
-    padding: 5rem;
-    margin: 10px;
+    justify-content: space-around;
+    margin: 2rem;
+    padding: 2rem;
+    width: auto;
 }
+

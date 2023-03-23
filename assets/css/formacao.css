@@ -11,11 +11,12 @@
 
 .formacao--titulo {
     text-align: center;
-    padding: 5rem;
+    padding: 40px;
 }
 
 .formacao--item {
-    padding: 1.5rem;
+    padding: 100px;
     align-items: center;
+    line-height: 1.2;
 }
 
