@@ -1,0 +1,55 @@
+.experiencia {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: auto;
+}
+
+.experiencia-titulo {
+    text-align: center;
+    margin: 30px;
+}
+
+.experiencia__container {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 30px;
+    align-items: center;
+}
+
+.experiencia__container.decodificador {
+    flex-direction: row-reverse;
+}
+
+.experiencia__container.alurageek {
+    flex-direction: row;
+}
+
+.experiencia-info {
+    text-align: left;
+    line-height: 1.3;
+}
+
+.decodificador-imagem {
+    width: 752px;
+}
+
+.botao-repositorio {
+    width: 105px;
+    height: 51px;
+    background: #FFFFFF;
+    border: 1px solid #2A7AE4;
+    color: #2A7AE4;
+    margin-top: 10px;
+}
+
+.botao-demo {
+    width: 105px;
+    height: 51px;
+    background: #2A7AE4;
+    border: none;
+    color: #FFFFFF;
+}
+
